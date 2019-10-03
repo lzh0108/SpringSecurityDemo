@@ -1,6 +1,6 @@
 # SpringSecurityDemo
 
-## 使用Spring Security的大致步骤：
+## 使用Spring Security的大致步骤
 1. 导入pom依赖
 2. 配置实体类，实体类继承UserDetails接口，并实现其多个方法进行配置
 isAccountNonExpired()，isAccountNonLocked()，isCredentialsNonExpired()，isEnabled()，getAuthorities()
