@@ -10,5 +10,5 @@ configure(WebSecurity web) 配置SpringSecuriy的权限控制范围<br/>
 configure(AuthenticationManagerBuilder auth) 配置认证<br/>
 configure(HttpSecurity http) 配置授权<br/>
 
-具体实现请了解代码示例
+具体实现请了解代码示例<br/>
 SpringSecurity学习网址：http://www.spring4all.com/ 里面的SpringSecurity资料比较易学
